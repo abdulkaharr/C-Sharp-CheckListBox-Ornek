@@ -1,0 +1,10 @@
+C:\Users\mehmet\source\repos\CheckListBoxOrnek\CheckListBoxOrnek\bin\Debug\CheckListBoxOrnek.exe.config
+C:\Users\mehmet\source\repos\CheckListBoxOrnek\CheckListBoxOrnek\bin\Debug\CheckListBoxOrnek.exe
+C:\Users\mehmet\source\repos\CheckListBoxOrnek\CheckListBoxOrnek\bin\Debug\CheckListBoxOrnek.pdb
+C:\Users\mehmet\source\repos\CheckListBoxOrnek\CheckListBoxOrnek\obj\Debug\CheckListBoxOrnek.csprojAssemblyReference.cache
+C:\Users\mehmet\source\repos\CheckListBoxOrnek\CheckListBoxOrnek\obj\Debug\CheckListBoxOrnek.Form1.resources
+C:\Users\mehmet\source\repos\CheckListBoxOrnek\CheckListBoxOrnek\obj\Debug\CheckListBoxOrnek.Properties.Resources.resources
+C:\Users\mehmet\source\repos\CheckListBoxOrnek\CheckListBoxOrnek\obj\Debug\CheckListBoxOrnek.csproj.GenerateResource.cache
+C:\Users\mehmet\source\repos\CheckListBoxOrnek\CheckListBoxOrnek\obj\Debug\CheckListBoxOrnek.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\source\repos\CheckListBoxOrnek\CheckListBoxOrnek\obj\Debug\CheckListBoxOrnek.exe
+C:\Users\mehmet\source\repos\CheckListBoxOrnek\CheckListBoxOrnek\obj\Debug\CheckListBoxOrnek.pdb
